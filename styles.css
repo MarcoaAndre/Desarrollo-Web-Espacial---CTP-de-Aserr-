@@ -544,7 +544,7 @@ footer {
 }
 
 .card p:last-child {
-  color: #e81cff;
+  color: #fff;
   font-weight: 600;
 }
 
@@ -560,3 +560,4 @@ footer {
   height: 110pt;
   width: 130pt;
 }
+
