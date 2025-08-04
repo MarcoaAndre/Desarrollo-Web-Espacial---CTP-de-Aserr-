@@ -555,3 +555,7 @@ footer {
 .card:hover::before {
   transform: rotate(-90deg) scaleX(1.34) scaleY(0.77);
 }
+.imagenproyecto{
+  height: 110pt;
+  width: 130pt;
+}
